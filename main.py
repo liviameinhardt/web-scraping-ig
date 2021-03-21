@@ -16,7 +16,7 @@ links_posts = []
 
 ig.login(usuario,senha)
 
-links_posts = ig.recent_posts(pagina,1)
+links_posts = ig.recent_posts(pagina)
 
 ig.logout(usuario)
 
