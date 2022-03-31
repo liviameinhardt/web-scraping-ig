@@ -1,6 +1,6 @@
 # Instagram Scrape
 
-Código desenvolvido em [Selenium](https://selenium-python.readthedocs.io/) que coleta comentários, número de curtidas, hashtags e data de posts do Instagram. Para isso, basta passar o número de posts a serem considerados, usuário e um login e senha. Esses dados são interessantes para análise de engajamento em Planos de Marketing.
+Código desenvolvido em [Selenium](https://selenium-python.readthedocs.io/) que coleta comentários, número de curtidas, hashtags e data de posts do Instagram. Para isso, basta passar o número de posts a serem considerados, usuário e um login e senha.
 
 ## Utilização
 Basta inserir as informações desejadas no módulo main.py. 
