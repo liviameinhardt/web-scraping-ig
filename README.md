@@ -47,8 +47,9 @@ df.to_excel(f"{cliente}.xlsx",index=False)
 ## Pontos de Melhoria
 
 * O erro apresentado acima
+* Segurança: login e senha explicitos no código (usar variável de ambiente pode ser uma solução)
 * Tratar para dados faltantes (posts sem curtidas, comentários)
 * Coleta de número de comentários mais eficiente
 * Coletar número de seguidores e calcular engajamento
 * Adicionar outras métricas de forma automática na planilha
-* Adicionar visualizações de forma automática na planilha (macro?)
+* Adicionar visualizações de forma automática na planilha (Streamlit)
